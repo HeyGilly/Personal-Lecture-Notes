@@ -1,0 +1,19 @@
+
+
+Chapter 1: Introduction to algorithms
+
+An algorithm:
+    - a set of instructions for accomplishing a task.
+    - Every piece of code could be called an algorithm
+
+Binary Search:
+    - An algorithm that takes in a sorted list of elements and returns the element your looking for position. If not in list the binary search returns null.
+    - An Example of Binary Search is if you are looking for a word that starts with an "o", instead of starting with "A" till you find the word, you open the dictionary nea the middle.
+    - The binary_search function takes a sorted array and an item. If the item is in the array, the function returns its position.
+    Formula:
+        log2n steps
+
+Simple Search:
+    - Going one by one and checking to see if your element is the one you picked.
+    Formula:
+        'n' steps
